@@ -1,1 +1,4 @@
-# terra-stake-voucher-token
+# Vesting for LaunchPad smart contract
+
+Terra invest plastform
+v 1.0
